@@ -1,0 +1,46 @@
+# coding: utf-8
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+# # H-R Diagram
+
+# ![OIP%20%281%29.jpg](attachment:OIP%20%281%29.jpg)
+
+# H-R Diagram 
+
+# ![OIP.jpg](attachment:OIP.jpg)
+
+# ## Various branches in H-R Diagram
+
+# ![Stars-H-R-diagram.png](attachment:Stars-H-R-diagram.png)
+
+# # Evolution of Star Cluster using H-R diagram
+
+# ![Screenshot%202021-06-27%20122521.jpg](attachment:Screenshot%202021-06-27%20122521.jpg)
+
+# Ten million years(10^7 years)later, the highest mass O star have used up all of their Hydrogenand begin to evolve off main sequence.
+
+# ![ss1.jpg](attachment:ss1.jpg)
+
+# After 100 billion years(10^8, all the O-stars gone into supernova.) B star begin to evolve off the main sequence.
+
+# # Color magnitude diagram 
+
+# Observers can't directly measure luminosities and absolute temperature. Instead we quantify the color and magnitude. Magnitude is related to luminosity and color is related to temperature.
+
+# ![ss2.jpg](attachment:ss2.jpg)
+
+# ![ss3.jpg](attachment:ss3.jpg)
+
+# # Distance Module
+
+# ![ss4.jpg](attachment:ss4.jpg)
+
+# In[ ]:
+
+
+
+
